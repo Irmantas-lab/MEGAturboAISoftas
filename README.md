@@ -1,2 +1,2 @@
 # MEGAturboAISoftas
-labai gera AI programa, gerinanti buity
+labai gera AI biudzreto programa, gerinanti buity
